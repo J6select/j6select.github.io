@@ -1,0 +1,57 @@
+
+		
+			*{
+				font-family: Arial, Verdana, sans-serif;
+				
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+                background-image: url(https://images7.alphacoders.com/344/thumb-1920-344993.jpg);
+                background-repeat: no-repeat;
+                background-size:cover;
+              background-position:center;
+}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;
+}
+.column1 {
+  background-color:grey;
+}
+.column2{
+  background-color:lightgrey;
+}
+
+			.column3 {
+				margin-right: 0%;
+              background-color:#d8dcdc;
+}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #415378;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				}
+#feature{
+  background-image: url(https://rfclipart.com/image/big/f9-04-64/modern-building-silhouette-Download-Royalty-free-Vector-File-EPS-2886.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size:contain;
+  background-color:white;
+  
+}
+h1{
+  font-family: 'KhnumRegular'; 
+   font-weight: normal; 
+   font-style: normal;
+}

@@ -1,0 +1,26 @@
+body{
+ background: lightgrey; 
+}
+
+#upLeft {
+float: left;
+
+}
+#downLeft {
+float: left;
+}
+#upRight {
+
+float: left;
+}
+
+#downRight {
+
+float: left;
+}
+.clear {
+clear: both;
+}
+.space{
+  color: lightgrey;
+}

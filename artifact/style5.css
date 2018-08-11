@@ -1,0 +1,13 @@
+ body {
+    height: 750px;
+    background: grey;
+}
+.slideshow{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttons, p{
+  text-align: center;
+}

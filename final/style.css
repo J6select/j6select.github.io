@@ -1,16 +1,16 @@
 *{
   font-family: Arial, Verdana, sans-serif;
-  color: #665544;
+  color: black;
   text-align: center;
 }
 
 body {
-  background-image: url("https://thehungryjpeg.com/img/products/0227f84faa13c1e9a0a23fccd6ed50bc4b416126.jpg");
+  background-image: url(https://i.pinimg.com/originals/b8/4f/ad/b84fadd0e1d07f7748a3a8c0e97ecc9f.jpg);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
+
   width: 90%;
   margin: 0 auto;}
 #content {
@@ -26,6 +26,10 @@ nav, #feature, footer {
 li {
   display: inline;
   padding: 0.5em;}
+li.artifact, li.module{
+  display: block;
+  text-align: left
+}
 nav, footer {
   background-color: #efefef;
   padding: 0.5em 0;}
@@ -41,5 +45,9 @@ h1{
   font-family: 'CodeNewRomanRegular'; 
   font-weight: normal; 
   font-style: normal;
-  color:white;
+  color:black;
+}
+iframe{
+  width:40%;
+  height:50%;
 }
